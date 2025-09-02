@@ -50,6 +50,10 @@ body {
 	position: relative;
 }
 
+.visually-hidden {
+	color: #575757;
+}
+
 .picture.left::before {
 	content: ' ';
 	background-color: #E5975F;
